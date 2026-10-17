@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **fizanadeemabas1001@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**Building security tools using Bash and Python
+- 🔭 **I’m currently working on:** Building security tools using Bash and Python
 - 🌱 **I’m currently learning:** Getting now into Cybersecurity, exploring core network architectures and expanding my development stack
 - 👯 **I’m looking to collaborate on:** Simple startup scripts, practical defense tools, and basic security lab setups for beginners
 - 🤔 **I’m looking for help with:** Understanding cloud environments fixing code errors
